@@ -10,7 +10,7 @@ There are many components in this boilerplate that do not require an active web3
 
 Please check the [official documentation of Moralis](https://docs.moralis.io/#user) for all the functionalities of Moralis.
 
-![daPPdemo](https://user-images.githubusercontent.com/78314301/147088732-e8bbd451-9351-4338-879c-b1535f4df319.gif)
+![daPPdemo](https://ipfs.io/ipfs/bafybeia2t3ilkqn6723wuc7aqahnb5rj6f6lcjcc3hq7czp233ecipigni)
 
 # ⭐️ `Star us`
 
